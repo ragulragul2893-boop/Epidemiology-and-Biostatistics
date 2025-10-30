@@ -1,9 +1,7 @@
 # Epidemiology and Biostatistics
 
-Hi, I’m **Ragul** 👋
-I’m a Master of Public Health (Epidemiology and Biostatistics) student.
-This repository showcases my research projects, data analyses, and visualizations in the field of public health.
-
+My name is **Ragul** 
+I’m a Public Health graduate student specializing in Epidemiology and Biostatistics, with strong skills in health data analysis and interpretation using SPSS and Stata. I have experience in conducting field surveys and applying evidence-based methods to address communicable and non-communicable diseases (NCDs). I’m passionate about using data-driven approaches to improve population health outcomes through prevention and health promotion.
 ---
 
 ## 📊 Projects
