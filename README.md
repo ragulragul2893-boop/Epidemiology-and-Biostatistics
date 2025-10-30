@@ -10,7 +10,7 @@ This repository showcases my research projects, data analyses, and visualization
 
 * Regression analysis using **Stata**
 * Epidemiological data interpretation
-* Health survey data visualization
+* Health survey data visualization 
 
 ---
 
