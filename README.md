@@ -1,2 +1,2 @@
 # Epidemiology-Biostatistics
-Researcher and data analytics and visualisations 
+Researcher and Data Analytics and Visualisations and Interpretation 
