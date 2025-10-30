@@ -11,19 +11,23 @@ ________________________________________
 •	Health survey data visualization
 ________________________________________
 📂 **Files in this Repository**
+
 •	MANUSCRIPT_DOCUMENT.docx – Final manuscript/report of the research
 •	Secondary research do file.do – Stata syntax file for data analysis
 •	README.md – Overview and project documentation
 ________________________________________
 🧠 **Skills**
+
 •	Epidemiology Research Methods
 •	Biostatistics and Data Analysis
 •	Tools: Stata, Excel, SPSS
 ________________________________________
 📫 **Contact**
+
 📧 Email: ragulragul2893@gmail.com
 🔗 LinkedIn: Ragul S
 ________________________________________
 💡 **Notes**
+
 All data and materials shared in this repository are intended solely for academic and educational purposes.
 
