@@ -8,7 +8,7 @@ This repository includes my research projects, data analyses, and visualizations
 ---
 
 ## 📊 Projects
-- Regression analysis using Stata and R  
+- Regression analysis using Stata 
 - Epidemiological data interpretation  
 - Health survey data visualization  
 
