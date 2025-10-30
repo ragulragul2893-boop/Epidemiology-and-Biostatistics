@@ -1,9 +1,11 @@
 **Epidemiology and Biostatistics**
 
 My name is Ragul S,
+
 I’m a Public Health graduate student specializing in Epidemiology and Biostatistics, with strong skills in health data analysis and interpretation using SPSS and Stata. I have experience conducting field surveys and applying evidence-based methods to address communicable and non-communicable diseases (NCDs). I’m passionate about using data-driven approaches to improve population health outcomes through prevention and health promotion.
 ________________________________________
 📊**Projects**
+
 •	Regression analysis using Stata
 •	Epidemiological data interpretation
 •	Health survey data visualization
